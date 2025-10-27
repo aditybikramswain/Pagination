@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		189EA8DC2EAF6A48000ECC93 /* PaginationI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PaginationI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		189EA8DC2EAF6A48000ECC93 /* Pagination.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pagination.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		189EA8DD2EAF6A48000ECC93 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				189EA8DC2EAF6A48000ECC93 /* PaginationI.app */,
+				189EA8DC2EAF6A48000ECC93 /* Pagination.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		189EA8DB2EAF6A48000ECC93 /* PaginationI */ = {
+		189EA8DB2EAF6A48000ECC93 /* Pagination */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 189EA8E72EAF6A49000ECC93 /* Build configuration list for PBXNativeTarget "PaginationI" */;
+			buildConfigurationList = 189EA8E72EAF6A49000ECC93 /* Build configuration list for PBXNativeTarget "Pagination" */;
 			buildPhases = (
 				189EA8D82EAF6A48000ECC93 /* Sources */,
 				189EA8D92EAF6A48000ECC93 /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				189EA8DE2EAF6A48000ECC93 /* Offset-Based */,
 			);
-			name = PaginationI;
+			name = Pagination;
 			packageProductDependencies = (
 			);
 			productName = PaginationI;
-			productReference = 189EA8DC2EAF6A48000ECC93 /* PaginationI.app */;
+			productReference = 189EA8DC2EAF6A48000ECC93 /* Pagination.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 189EA8D72EAF6A48000ECC93 /* Build configuration list for PBXProject "PaginationI" */;
+			buildConfigurationList = 189EA8D72EAF6A48000ECC93 /* Build configuration list for PBXProject "Pagination" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				189EA8DB2EAF6A48000ECC93 /* PaginationI */,
+				189EA8DB2EAF6A48000ECC93 /* Pagination */,
 			);
 		};
 /* End PBXProject section */
@@ -313,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		189EA8D72EAF6A48000ECC93 /* Build configuration list for PBXProject "PaginationI" */ = {
+		189EA8D72EAF6A48000ECC93 /* Build configuration list for PBXProject "Pagination" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				189EA8E52EAF6A49000ECC93 /* Debug */,
@@ -322,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		189EA8E72EAF6A49000ECC93 /* Build configuration list for PBXNativeTarget "PaginationI" */ = {
+		189EA8E72EAF6A49000ECC93 /* Build configuration list for PBXNativeTarget "Pagination" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				189EA8E82EAF6A49000ECC93 /* Debug */,
