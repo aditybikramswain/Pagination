@@ -20,6 +20,7 @@ class ViewModel: ObservableObject {
     func loadTheNextPage() async throws {
         guard !isLoading else {return}
         isLoading = true
+        try? await Task.sleep(nanoseconds: 3_000_000_000)
         let startId = (currentPage - 1) * pageLimtit
         let endID = startId + pageLimtit
         await withTaskGroup(of: Model?.self) { group in
