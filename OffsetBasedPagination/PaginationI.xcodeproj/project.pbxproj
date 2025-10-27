@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		189EA8DE2EAF6A48000ECC93 /* PaginationI */ = {
+		189EA8DE2EAF6A48000ECC93 /* Offset-Based */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PaginationI;
+			path = "Offset-Based";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		189EA8D32EAF6A48000ECC93 = {
 			isa = PBXGroup;
 			children = (
-				189EA8DE2EAF6A48000ECC93 /* PaginationI */,
+				189EA8DE2EAF6A48000ECC93 /* Offset-Based */,
 				189EA8DD2EAF6A48000ECC93 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				189EA8DE2EAF6A48000ECC93 /* PaginationI */,
+				189EA8DE2EAF6A48000ECC93 /* Offset-Based */,
 			);
 			name = PaginationI;
 			packageProductDependencies = (
